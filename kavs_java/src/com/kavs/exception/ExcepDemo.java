@@ -6,6 +6,7 @@ public class ExcepDemo {
 		// TODO Auto-generated method stub
 		System.out.println("Inside Main method..!!");
 		Division.divide();
+		NestedTryCatch.check();
 	}
 
 }
